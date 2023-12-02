@@ -1,0 +1,6 @@
+#|code|nom|unite|valref|methode
+1|NO2|Dioxyde d’azote|ppb|213|10000
+2|SO2|Dioxyde de soufre|ppb|200|12000
+3|CO|Monoxyde de carbone|ppm|30|14000
+4|PM25|Particules fines|μg m-3|35|10000
+5|O3|Ozone|ppb|82|10000
