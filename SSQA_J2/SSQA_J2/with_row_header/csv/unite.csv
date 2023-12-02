@@ -1,0 +1,7 @@
+#,sym,nom,term_add,fact_mul,dim_temps,dim_longueur,dim_masse,dim_electrique,dim_temperature,dim_mole,dim_lumiere,dim_radian,dim_steradian,dim_binaire
+1,g m-3,gramme par mètre cube,0,0.01,0,-3,1,0,0,0,0,0,0,0
+2,s,seconde,0,1,1,0,0,0,0,0,0,0,0,0
+3,μg m-3,microgramme par mètre cube,0,0.00000001,0,-3,1,0,0,0,0,0,0,0
+4,ppc,parties par centaine,0,0.1,0,0,0,0,0,0,0,0,0,0
+5,ppm,parties par million,0,0.00001,0,0,0,0,0,0,0,0,0,0
+6,ppb,parties par milliard,0,0.00000001,0,0,0,0,0,0,0,0,0,0
